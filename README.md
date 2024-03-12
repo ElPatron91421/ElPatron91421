@@ -2,9 +2,8 @@
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on a variety of projects and really have fun
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me via text
+- ⚡ Fun fact:I currently can swim without getting wet pause
 
 <!---
 ElPatron91421/ElPatron91421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
